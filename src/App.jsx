@@ -15,9 +15,9 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "Really sure?",
+      "Dont go BB please?",
       "Think again!",
-      "Last chance!",
+      "This is worth fighting for",
       "Surely not?",
       "You might regret this!",
       "Give it another thought!",
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Will you be my Valentine Princess CeCe✨✨?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
